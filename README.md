@@ -18,7 +18,7 @@ uplifting the firm’s value while simultaneously surpassing personal expectatio
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/tm2k23](https://github.com/Bhavnish15)) 
 &nbsp;
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhavnishbhardwaj/)
+[<img align="center" style="color: white" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhavnishbhardwaj/)
 &nbsp;
 <h2 align="center"> 🔭 Technology Stack</h2>
 
