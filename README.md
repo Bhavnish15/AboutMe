@@ -1,10 +1,13 @@
-<h1 align="center"> Hi 👋, I'm Tejas !</h1>
+<h1 align="center"> Hi 👋, I'm Bhavnish</h1>
 <p align="center">
     <a href="https://github.com/tm2k23"><img src="forkit.gif "/></a> 
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>An enthusiastic and motivated Student in the field of Computer Science with a keen interest in Full Stack Development. I love to build software that makes an impact on my organization and the world.</samp><br><samp> I enjoy solving complex problems and taking on challenging tasks. I am strong in applying Data Structures and Algorithms to efficiently solve any problem.</samp><br><samp> I am a quick learner and open to working in any technology. Detailed Oriented, Consistency and Hard Work are some of my top qualities. I believe consistent practice brings excellence. </samp><br><samp>You can find me on: tejasmishra.in</samp>
+  <samp>A passionate developer with good problem-solving skills and the ability to think out of the box in hard times.
+Passionate about creating and learning new things and having interest in web development, system design.
+</samp><br><samp> I enjoy solving complex problems and taking on challenging tasks. I am strong in applying Data Structures and Algorithms to efficiently solve any problem.</samp><br><samp>A quick learner and open to working in any technology. I believe consistent practice brings excellence. Extremely passionate towards technology and hands-on experience. Curiosity drives me. Learning and keen on
+uplifting the firm’s value while simultaneously surpassing personal expectations.</samp><br><samp></samp>
 <br>
 </p>
 
